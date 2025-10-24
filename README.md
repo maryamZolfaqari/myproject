@@ -1,8 +1,19 @@
 # MyProject
 
 ![License](https://img.shields.io/badge/license-MIT-green)
+![Version](https://img.shields.io/badge/version-1.0-blue)
+![Stars](https://img.shields.io/github/stars/maryamZolfaqari/myproject?style=social)
 
 یک پروژه نمونه برای یادگیری Git و مدیریت پروژه‌های حرفه‌ای.
+
+## فهرست محتوا
+- [معرفی پروژه](#معرفی-پروژه)
+- [ویژگی‌ها](#ویژگی‌ها)
+- [پیش‌نیازها](#پیش‌نیازها)
+- [نصب و راه‌اندازی](#نصب-و-راه‌اندازی)
+- [نحوه استفاده](#نحوه-استفاده)
+- [مشارکت](#مشارکت)
+- [مجوز](#مجوز)
 
 ## معرفی پروژه
 
@@ -14,6 +25,7 @@
 - شاخه‌بندی حرفه‌ای (feature branches)
 - مستندسازی کامل با Markdown
 - آماده برای توسعه و افزودن قابلیت‌های جدید
+- مناسب برای پروژه‌های آموزشی و نمونه کاری رزومه
 
 ## پیش‌نیازها
 
@@ -24,5 +36,7 @@
 ## نصب و راه‌اندازی
 
 1. کلون کردن پروژه:
+
 ```bash
 git clone https://github.com/maryamZolfaqari/myproject.git
+cd myproject
