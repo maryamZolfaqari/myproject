@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Stars](https://img.shields.io/github/stars/maryamZolfaqari/myproject?style=social)
 
-یک پروژه نمونه برای یادگیری Git و مدیریت پروژه‌های حرفه‌ای.
+
 
 ## فهرست محتوا
 - [معرفی پروژه](#معرفی-پروژه)
